@@ -1,0 +1,6 @@
+{
+  "name": "INDUSIQ",
+  "description": "AI-Powered Product Intelligence & Trust Engine for industrial manufacturing, catalog validation, and multi-source conflict resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
